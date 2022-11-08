@@ -1,0 +1,15 @@
+button, input {
+  margin: 0.5rem;
+}
+
+.bulk-content {
+  display: flex;
+}
+
+.cards-block {
+  display: flex;
+  flex-wrap: wrap;
+  nb-card {
+    margin: 0.5rem;
+  }
+}

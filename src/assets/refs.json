@@ -1,0 +1,17 @@
+[
+{
+    "name": "Google",
+    "baseLink": "https://www.google.com/search?tbm=isch&q=",
+    "icon": ""
+  },
+{
+    "name": "Pinterest",
+    "baseLink": "https://www.pinterest.com/search/pins/?q=",
+    "icon": ""
+  },
+{
+    "name": "ArtStation",
+    "baseLink": "https://www.artstation.com/search?sort_by=relevance&query=",
+    "icon": ""
+  }
+]
